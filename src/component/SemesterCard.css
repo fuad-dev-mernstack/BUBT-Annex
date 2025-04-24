@@ -1,0 +1,23 @@
+.semester-card {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin: 20px 0;
+    overflow: hidden;
+  }
+  
+  .semester-header {
+    background-color: #4036c7;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .semester-sgpa {
+    background-color: #66008a;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-weight: bold;
+  }
+  

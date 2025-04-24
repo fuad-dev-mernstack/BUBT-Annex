@@ -1,0 +1,21 @@
+.result-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .result-table th,
+  .result-table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .result-table th {
+    background-color: #61aee6;
+    font-weight: bold;
+  }
+  
+  .result-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
