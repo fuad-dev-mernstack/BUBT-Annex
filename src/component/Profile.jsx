@@ -21,7 +21,7 @@ function Profile() {
           </div>
           <div className="right">
               <button className="btn home">Dashboard</button>
-            <Link to="/course-result">
+            <Link to="/academic-info">
               <button className="btn settings">Academic Info</button>
             </Link>
             <button className="btn logout">Log Out</button>

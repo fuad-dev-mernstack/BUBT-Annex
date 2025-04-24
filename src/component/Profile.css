@@ -1,6 +1,14 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-y: auto;
+}
+
+
 .profile-wrapper {
     background: linear-gradient(to bottom, #b9e6ff, white);
-    min-height: 100vh;
+    /* min-height: 100vh; */
     padding: 20px;
   }
   
