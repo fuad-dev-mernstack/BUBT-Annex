@@ -15,13 +15,13 @@ function Profile() {
           </div>
           <div className="center">
             <p>Name: <strong className="highlight">Abdullah Al Muttasim</strong></p>
-            <p>ID: <strong className="highlight">18192103128</strong> &nbsp; Intake/Section: <strong>20 - 2</strong></p>
+            <p>ID: <strong className="highlight">18192103128</strong> &nbsp; Intake/Section: <strong>41</strong></p>
             <p>Program: <strong className="highlight">B.Sc. in CSE (Tri-Semester)</strong></p>
             <p><strong>Alumni</strong></p>
           </div>
           <div className="right">
               <button className="btn home">Dashboard</button>
-            <Link to="/academic-info">
+            <Link to="/course-result">
               <button className="btn settings">Academic Info</button>
             </Link>
             <button className="btn logout">Log Out</button>
