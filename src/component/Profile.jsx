@@ -24,7 +24,9 @@ function Profile() {
             <Link to="/course-result">
               <button className="btn settings">Academic Info</button>
             </Link>
-            <button className="btn logout">Log Out</button>
+            <Link to="/">
+              <button className="btn logout">Log Out</button>
+            </Link>
           </div>
         </div>
       </header>
